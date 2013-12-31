@@ -2,11 +2,11 @@
 <dictionary>
   <alphabet/>
   <sdefs>
-    <sdef n="n">
-    <sdef n="np">
-    <sdef n="adj">
-    <sdef n="adv">
-    <sdef n="vblex">
+    <sdef n="n"/>
+    <sdef n="np"/>
+    <sdef n="adj"/>
+    <sdef n="adv"/>
+    <sdef n="vblex"/>
 	<sdef n="ij"/>
   </sdefs>
 
